@@ -17,7 +17,7 @@ public class calculadora {
 		}else if (total>=25.0 && total<=29.9){
 			JOptionPane.showInternalMessageDialog(null, "Usted tiene un Peso superior al normal");
 		}else if (total>=30.0){
-			JOptionPane.showInternalMessageDialog(null, "Usted tiene un obesidad");
+			JOptionPane.showInternalMessageDialog(null, "Usted tiene obesidad");
 		}
 			System.exit(0);
 		}
